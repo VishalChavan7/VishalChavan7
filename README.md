@@ -22,13 +22,10 @@
 `React` `Tailwind` `API v4` • [![Demo](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=vercel)](https://your-demo-link.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://your-repo-link.com)
 
 **🏨 WanderLodge** • Full-stack hotel booking with auth, real-time booking & Mapbox maps  
-`React` `Node` `Express` `MongoDB` `Tailwind` • [![Demo](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=vercel)](https://your-demo-link.com)
+`JavaScript` `Node` `Express` `MongoDB` `Tailwind` • [![Demo](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=vercel)](https://your-demo-link.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://your-repo-link.com)
 
 **♟️ Checkmate** • Online multiplayer chess with WebSockets & session recovery  
 `Node` `Express` `Socket.io` `Chess.js` • [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://your-repo-link.com)
-
-**🔗 URL Shortener** • Python Flask app for converting long URLs to short links  
-`Python` `Flask` `SQLite` `Jinja2` • [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://your-repo-link.com)
 
 **📂 Neatify** • Auto-sorts downloaded files into subfolders by extension  
 `Python` `Watchdog` • [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://your-repo-link.com)
@@ -120,7 +117,7 @@ Shri Ramdeobaba College of Engineering and Management | 2021–2025
 
 ## 🎯 Current Focus
 
-```javascript
+```JavaScript
 const vishal = {
     location: "Nagpur, India",
     currentFocus: ["Full-Stack Development", "UI/UX Design", "AI Integration"],
@@ -144,10 +141,3 @@ If you have a problem worth solving, I'd love to build it.
 
 *I'm a chess enthusiast — building better UIs and better endgames one move at a time* ♟️
 
----
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalChavan7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF)
-
----
-
-![](https://komarev.com/ghpvc/?username=VishalChavan7&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
