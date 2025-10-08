@@ -1,8 +1,20 @@
+<!-- 🌊 Liquid Glass Effect Container -->
+<div align="center" style="
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 20px;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 40px;
+  margin: 20px 0;
+">
+
 # Hi, I'm Vishal Chavan 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+%26+UI%2FUX+Designer;Building+Accessible+Web+Experiences;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Design)](https://git.io/typing-svg)
 
-> Crafting accessible, responsive web apps end‑to‑end. I enjoy turning ideas into delightful, performant products.
+> Crafting accessible, responsive web apps end-to-end. I enjoy turning ideas into delightful, performant products.
 
 ---
 
@@ -14,7 +26,21 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:vishal242392@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/VishalChavan7)
 
+</div>
+
 ---
+
+<!-- 🚀 Projects Glass Panel -->
+<div style="
+  background: rgba(255, 255, 255, 0.07);
+  border-radius: 20px;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 25px;
+  margin: 25px 0;
+">
 
 ## 🚀 Featured Projects
 
@@ -30,7 +56,21 @@
 **📂 Neatify** • Auto-sorts downloaded files into subfolders by extension  
 `Python` `Watchdog` • [![Repo](https://img.shields.io/badge/Repo-181717?style=plastic&logo=github&logoColor=white)](https://your-repo-link.com)
 
+</div>
+
 ---
+
+<!-- 💻 Tech Stack Glass Panel -->
+<div style="
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 20px;
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 25px;
+  margin: 25px 0;
+">
 
 ## 💻 Tech Stack
 
@@ -71,6 +111,8 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=plastic&logo=cisco&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_UX-4285F4?style=plastic&logo=google&logoColor=white)
 
+</div>
+
 ---
 
 ## 💼 Professional Experience
@@ -105,6 +147,18 @@ Shri Ramdeobaba College of Engineering and Management | 2021–2025
 
 ---
 
+<!-- 📊 Stats Glass Panel -->
+<div align="center" style="
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 20px;
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 25px;
+  margin: 25px 0;
+">
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -119,11 +173,13 @@ Shri Ramdeobaba College of Engineering and Management | 2021–2025
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalChavan7&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border_radius=15" alt="GitHub Streak" />
 </p>
 
+</div>
+
 ---
 
 ## 🎯 Current Focus
 
-```javascript
+```JavaScript
 const vishal = {
     location: "Hyderabad, India",
     currentFocus: ["Full-Stack Development", "UI/UX Design", "AI Integration"],
@@ -131,19 +187,19 @@ const vishal = {
     funFact: "Chess enthusiast building better UIs and endgames ♟️",
     philosophy: "If you have a problem worth solving, I'd love to build it"
 };
-```
 
----
 
-## 💌 Let's Connect
+⸻
 
-**Open to full-time roles and freelance projects.**
+💌 Let’s Connect
 
-If you have a problem worth solving, I'd love to build it.
+Open to full-time roles and freelance projects.
 
----
+If you have a problem worth solving, I’d love to build it.
 
-## 💡 Fun Fact
+⸻
 
-*I'm a chess enthusiast — building better UIs and better endgames one move at a time* ♟️
+💡 Fun Fact
+
+I’m a chess enthusiast — building better UIs and better endgames one move at a time ♟️
 
