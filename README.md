@@ -85,10 +85,10 @@
 ## 🚀 Featured Projects
 
 **🌌 SpaceX Mission Explorer** • Modern React app to browse SpaceX missions via v4 API  
-`React` `Tailwind` `API v4` • [![Demo](https://img.shields.io/badge/Demo-A270FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
+`React` `Tailwind` `API v4` • [![Demo](https://img.shields.io/badge/Demo-0096FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
 
 **🏨 WanderLodge** • Full-stack hotel booking with auth, real-time booking & Mapbox maps  
-`JavaScript` `Node` `Express` `MongoDB` `Tailwind` • [![Demo](https://img.shields.io/badge/Demo-A270FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
+`JavaScript` `Node` `Express` `MongoDB` `Tailwind` • [![Demo](https://img.shields.io/badge/Demo-0096FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
 
 **♟️ Checkmate** • Online multiplayer chess with WebSockets & session recovery  
 `Node` `Express` `Socket.io` `Chess.js` • [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
