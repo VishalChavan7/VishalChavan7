@@ -1,5 +1,6 @@
-<!-- 🌊 Liquid Glass Effect Container -->
+<!-- 🌊 Liquid Glass + Animated Shimmer Container -->
 <div align="center" style="
+  position: relative;
   background: rgba(255, 255, 255, 0.06);
   border-radius: 20px;
   backdrop-filter: blur(14px);
@@ -8,7 +9,27 @@
   border: 1px solid rgba(255, 255, 255, 0.18);
   padding: 40px;
   margin: 20px 0;
+  overflow: hidden;
 ">
+
+  <!-- ✨ Animated Shimmer (SVG overlay). Degrades gracefully if blocked. -->
+  <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none"
+       style="position:absolute; inset:0; z-index:0; pointer-events:none; opacity:.35; mix-blend-mode:soft-light;">
+    <defs>
+      <linearGradient id="glow" x1="-50%" y1="0%" x2="150%" y2="0%">
+        <stop offset="0%"  stop-color="#ffffff00"/>
+        <stop offset="45%" stop-color="#ffffff40"/>
+        <stop offset="55%" stop-color="#ffffff70"/>
+        <stop offset="65%" stop-color="#ffffff40"/>
+        <stop offset="100%" stop-color="#ffffff00"/>
+      </linearGradient>
+    </defs>
+    <rect x="-50" y="0" width="200" height="100" fill="url(#glow)">
+      <animate attributeName="x" from="-50" to="50" dur="6s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+
+  <div style="position:relative; z-index:1;">
 
 # Hi, I'm Vishal Chavan 👋
 
@@ -26,12 +47,14 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:vishal242392@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/VishalChavan7)
 
+  </div>
 </div>
 
 ---
 
-<!-- 🚀 Projects Glass Panel -->
+<!-- 🚀 Projects Glass Panel + Shimmer -->
 <div style="
+  position:relative;
   background: rgba(255, 255, 255, 0.07);
   border-radius: 20px;
   backdrop-filter: blur(16px);
@@ -40,7 +63,24 @@
   border: 1px solid rgba(255, 255, 255, 0.25);
   padding: 25px;
   margin: 25px 0;
+  overflow:hidden;
 ">
+  <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none"
+       style="position:absolute; inset:0; z-index:0; pointer-events:none; opacity:.25; mix-blend-mode:soft-light;">
+    <defs>
+      <linearGradient id="glow2" x1="-50%" y1="0%" x2="150%" y2="0%">
+        <stop offset="0%"  stop-color="#ffffff00"/>
+        <stop offset="45%" stop-color="#ffffff30"/>
+        <stop offset="55%" stop-color="#ffffff60"/>
+        <stop offset="65%" stop-color="#ffffff30"/>
+        <stop offset="100%" stop-color="#ffffff00"/>
+      </linearGradient>
+    </defs>
+    <rect x="-50" y="0" width="200" height="100" fill="url(#glow2)">
+      <animate attributeName="x" from="-50" to="50" dur="7s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+  <div style="position:relative; z-index:1;">
 
 ## 🚀 Featured Projects
 
@@ -56,12 +96,14 @@
 **📂 Neatify** • Auto-sorts downloaded files into subfolders by extension  
 `Python` `Watchdog` • [![Repo](https://img.shields.io/badge/Repo-181717?style=plastic&logo=github&logoColor=white)](https://your-repo-link.com)
 
+  </div>
 </div>
 
 ---
 
-<!-- 💻 Tech Stack Glass Panel -->
+<!-- 💻 Tech Stack Glass Panel + Shimmer -->
 <div style="
+  position:relative;
   background: rgba(255, 255, 255, 0.08);
   border-radius: 20px;
   backdrop-filter: blur(18px);
@@ -70,7 +112,24 @@
   border: 1px solid rgba(255, 255, 255, 0.25);
   padding: 25px;
   margin: 25px 0;
+  overflow:hidden;
 ">
+  <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none"
+       style="position:absolute; inset:0; z-index:0; pointer-events:none; opacity:.22; mix-blend-mode:soft-light;">
+    <defs>
+      <linearGradient id="glow3" x1="-60%" y1="0%" x2="160%" y2="0%">
+        <stop offset="0%"  stop-color="#ffffff00"/>
+        <stop offset="45%" stop-color="#ffffff2a"/>
+        <stop offset="55%" stop-color="#ffffff55"/>
+        <stop offset="65%" stop-color="#ffffff2a"/>
+        <stop offset="100%" stop-color="#ffffff00"/>
+      </linearGradient>
+    </defs>
+    <rect x="-60" y="0" width="220" height="100" fill="url(#glow3)">
+      <animate attributeName="x" from="-60" to="60" dur="8s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+  <div style="position:relative; z-index:1;">
 
 ## 💻 Tech Stack
 
@@ -111,6 +170,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=plastic&logo=cisco&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_UX-4285F4?style=plastic&logo=google&logoColor=white)
 
+  </div>
 </div>
 
 ---
@@ -147,8 +207,9 @@ Shri Ramdeobaba College of Engineering and Management | 2021–2025
 
 ---
 
-<!-- 📊 Stats Glass Panel -->
+<!-- 📊 Stats Glass Panel + Shimmer -->
 <div align="center" style="
+  position:relative;
   background: rgba(255, 255, 255, 0.08);
   border-radius: 20px;
   backdrop-filter: blur(18px);
@@ -157,7 +218,25 @@ Shri Ramdeobaba College of Engineering and Management | 2021–2025
   border: 1px solid rgba(255, 255, 255, 0.25);
   padding: 25px;
   margin: 25px 0;
+  overflow:hidden;
 ">
+  <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none"
+       style="position:absolute; inset:0; z-index:0; pointer-events:none; opacity:.22; mix-blend-mode:soft-light;">
+    <defs>
+      <linearGradient id="glow4" x1="-60%" y1="0%" x2="160%" y2="0%">
+        <stop offset="0%"  stop-color="#ffffff00"/>
+        <stop offset="45%" stop-color="#ffffff2a"/>
+        <stop offset="55%" stop-color="#ffffff55"/>
+        <stop offset="65%" stop-color="#ffffff2a"/>
+        <stop offset="100%" stop-color="#ffffff00"/>
+      </linearGradient>
+    </defs>
+    <rect x="-60" y="0" width="220" height="100" fill="url(#glow4)">
+      <animate attributeName="x" from="-60" to="60" dur="8s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+
+  <div style="position:relative; z-index:1;">
 
 ## 📊 GitHub Stats
 
@@ -173,6 +252,7 @@ Shri Ramdeobaba College of Engineering and Management | 2021–2025
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalChavan7&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border_radius=15" alt="GitHub Streak" />
 </p>
 
+  </div>
 </div>
 
 ---
