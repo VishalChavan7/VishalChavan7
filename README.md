@@ -1,10 +1,8 @@
 # Hi, I'm Vishal Chavan 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20Chavan&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20%26%20UI/UX%20Designer&descAlignY=51&descSize=18)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+%26+UI%2FUX+Designer;Building+Accessible+Web+Experiences;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Design)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Accessible+Web+Experiences;Turning+Ideas+into+Delightful+Products;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Design)](https://git.io/typing-svg)
-
-> Full‑Stack Developer & UI/UX Designer crafting accessible, responsive web apps end‑to‑end. I enjoy turning ideas into delightful, performant products.
+> Crafting accessible, responsive web apps end‑to‑end. I enjoy turning ideas into delightful, performant products.
 
 ---
 
@@ -20,48 +18,20 @@
 
 ## 🚀 Featured Projects
 
-### 🌌 SpaceX Mission Explorer
-A modern React app to browse missions via the public SpaceX v4 API with smooth animations and responsive design.
+**🌌 SpaceX Mission Explorer** • Modern React app to browse SpaceX missions via v4 API  
+`React` `Tailwind` `API v4` • [![Demo](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=vercel)](https://your-demo-link.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://your-repo-link.com)
 
-**Tech Stack:** React • Tailwind • SpaceX API v4
+**🏨 WanderLodge** • Full-stack hotel booking with auth, real-time booking & Mapbox maps  
+`React` `Node` `Express` `MongoDB` `Tailwind` • [![Demo](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=vercel)](https://your-demo-link.com)
 
-[![Demo](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://your-repo-link.com)
+**♟️ Checkmate** • Online multiplayer chess with WebSockets & session recovery  
+`Node` `Express` `Socket.io` `Chess.js` • [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://your-repo-link.com)
 
----
+**🔗 URL Shortener** • Python Flask app for converting long URLs to short links  
+`Python` `Flask` `SQLite` `Jinja2` • [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://your-repo-link.com)
 
-### 🏨 WanderLodge
-Full-stack hotel booking platform with authentication, real-time booking, interactive Mapbox maps, and payment integration.
-
-**Tech Stack:** React • Node • Express • MongoDB • Tailwind • Passport • Multer • Cloudinary • Mapbox
-
-[![Demo](https://img.shields.io/badge/Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com)
-
----
-
-### ♟️ Checkmate
-Online multiplayer chess with WebSockets, session recovery, and mobile-first UI for seamless gameplay.
-
-**Tech Stack:** Node • Express • Socket.io • Chess.js • HTML • CSS
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://your-repo-link.com)
-
----
-
-### 🔗 URL Shortener
-Python Flask app that converts long URLs into short, shareable links with clean UI and SQLite storage.
-
-**Tech Stack:** Python • Flask • SQLite • Jinja2
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://your-repo-link.com)
-
----
-
-### 📂 Neatify
-Auto-sorts downloaded files into subfolders based on file extensions for better organization.
-
-**Tech Stack:** Python • Watchdog
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://your-repo-link.com)
+**📂 Neatify** • Auto-sorts downloaded files into subfolders by extension  
+`Python` `Watchdog` • [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://your-repo-link.com)
 
 ---
 
@@ -93,9 +63,16 @@ Auto-sorts downloaded files into subfolders based on file extensions for better 
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Foundations:** OOP • Networking • OS • DBMS • DSA (Java)
+### Foundations
+![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-4A90E2?style=for-the-badge&logo=cisco&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA_(Java)-007396?style=for-the-badge&logo=java&logoColor=white)
 
-**Certifications:** Cisco (Networking, OS) • Google (Foundations of UX Design)
+### Certifications
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Google](https://img.shields.io/badge/Google_UX-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -173,6 +150,4 @@ If you have a problem worth solving, I'd love to build it.
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
-
-![Visitor Count](https://profile-counter.glitch.me/VishalChavan7/count.svg)
+![](https://komarev.com/ghpvc/?username=VishalChavan7&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
