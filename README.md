@@ -208,56 +208,6 @@ Shri Ramdeobaba College of Engineering and Management | 2021–2025
 
 ---
 
-<!-- 📊 Stats Glass Panel + Shimmer -->
-<div align="center" style="
-  position:relative;
-  background: rgba(255, 255, 255, 0.08);
-  border-radius: 20px;
-  backdrop-filter: blur(18px);
-  -webkit-backdrop-filter: blur(18px);
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  padding: 25px;
-  margin: 25px 0;
-  overflow:hidden;
-">
-  <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none"
-       style="position:absolute; inset:0; z-index:0; pointer-events:none; opacity:.22; mix-blend-mode:soft-light;">
-    <defs>
-      <linearGradient id="glow4" x1="-60%" y1="0%" x2="160%" y2="0%">
-        <stop offset="0%"  stop-color="#ffffff00"/>
-        <stop offset="45%" stop-color="#ffffff2a"/>
-        <stop offset="55%" stop-color="#ffffff55"/>
-        <stop offset="65%" stop-color="#ffffff2a"/>
-        <stop offset="100%" stop-color="#ffffff00"/>
-      </linearGradient>
-    </defs>
-    <rect x="-60" y="0" width="220" height="100" fill="url(#glow4)">
-      <animate attributeName="x" from="-60" to="60" dur="8s" repeatCount="indefinite" />
-    </rect>
-  </svg>
-
-  <div style="position:relative; z-index:1;">
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalChavan7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalChavan7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&border_radius=15" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalChavan7&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border_radius=15" alt="GitHub Streak" />
-</p>
-
-  </div>
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```JavaScript
