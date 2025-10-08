@@ -1,3 +1,36 @@
+<!-- 🌊 Liquid Glass + Animated Shimmer Container -->
+<div align="center" style="
+  position: relative;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 20px;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 40px;
+  margin: 20px 0;
+  overflow: hidden;
+">
+
+  <!-- ✨ Animated Shimmer (SVG overlay). Degrades gracefully if blocked. -->
+  <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none"
+       style="position:absolute; inset:0; z-index:0; pointer-events:none; opacity:.35; mix-blend-mode:soft-light;">
+    <defs>
+      <linearGradient id="glow" x1="-50%" y1="0%" x2="150%" y2="0%">
+        <stop offset="0%"  stop-color="#ffffff00"/>
+        <stop offset="45%" stop-color="#ffffff40"/>
+        <stop offset="55%" stop-color="#ffffff70"/>
+        <stop offset="65%" stop-color="#ffffff40"/>
+        <stop offset="100%" stop-color="#ffffff00"/>
+      </linearGradient>
+    </defs>
+    <rect x="-50" y="0" width="200" height="100" fill="url(#glow)">
+      <animate attributeName="x" from="-50" to="50" dur="6s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+
+  <div style="position:relative; z-index:1;">
+
 # Hi, I'm Vishal Chavan 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+%26+UI%2FUX+Designer;Building+Accessible+Web+Experiences;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Design)](https://git.io/typing-svg)
@@ -20,6 +53,36 @@
 
 ---
 
+<!-- 🚀 Projects Glass Panel + Shimmer -->
+<div style="
+  position:relative;
+  background: rgba(255, 255, 255, 0.07);
+  border-radius: 20px;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 25px;
+  margin: 25px 0;
+  overflow:hidden;
+">
+  <svg width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none"
+       style="position:absolute; inset:0; z-index:0; pointer-events:none; opacity:.25; mix-blend-mode:soft-light;">
+    <defs>
+      <linearGradient id="glow2" x1="-50%" y1="0%" x2="150%" y2="0%">
+        <stop offset="0%"  stop-color="#ffffff00"/>
+        <stop offset="45%" stop-color="#ffffff30"/>
+        <stop offset="55%" stop-color="#ffffff60"/>
+        <stop offset="65%" stop-color="#ffffff30"/>
+        <stop offset="100%" stop-color="#ffffff00"/>
+      </linearGradient>
+    </defs>
+    <rect x="-50" y="0" width="200" height="100" fill="url(#glow2)">
+      <animate attributeName="x" from="-50" to="50" dur="7s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+  <div style="position:relative; z-index:1;">
+
 ## 🚀 Featured Projects
 
 **🌌 SpaceX Mission Explorer** • Modern React app to browse SpaceX missions via v4 API  
@@ -33,6 +96,9 @@
 
 **📂 Neatify** • Auto-sorts downloaded files into subfolders by extension  
 `Python` `Watchdog` • [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
+
+  </div>
+</div>
 
 ---
 
