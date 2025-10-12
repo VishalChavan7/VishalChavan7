@@ -86,16 +86,16 @@
 ## 🚀 Featured Projects
 
 **🌌 SpaceX Mission Explorer** • Modern React app to browse SpaceX missions via v4 API  
-`React` `Tailwind` `API v4` • [![Demo](https://img.shields.io/badge/Demo-0096FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
+`React` `Tailwind` `API v4` • [![Demo](https://img.shields.io/badge/Demo-0096FF?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-demo-link.com](https://VishalChavan7.github.io/spacex-mission-explorer)) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
 
 **🏨 WanderLodge** • Full-stack hotel booking with auth, real-time booking & Mapbox maps  
-`JavaScript` `Node` `Express` `MongoDB` `Tailwind` • [![Demo](https://img.shields.io/badge/Demo-0096FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
+`JavaScript` `Node` `Express` `MongoDB` `Tailwind` • [![Demo](https://img.shields.io/badge/Demo-0096FF?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-demo-link.com](https://wanderlodge-0pw1.onrender.com/listings)) [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
 
 **♟️ Checkmate** • Online multiplayer chess with WebSockets & session recovery  
-`Node` `Express` `Socket.io` `Chess.js` • [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
+`Node` `Express` `Socket.io` `Chess.js` • [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalChavan7/Checkmate)
 
 **📂 Neatify** • Auto-sorts downloaded files into subfolders by extension  
-`Python` `Watchdog` • [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-repo-link.com)
+`Python` `Watchdog` • [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalChavan7/Neatify)
 
   </div>
 </div>
